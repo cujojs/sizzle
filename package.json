@@ -1,8 +1,7 @@
 {
   "name": "sizzle",
-  "version": "0.1",
   "author": "John Resig",
-  "description": "Sizzle Query Engine",
+  "description": "A sizzlin' hot selector engine",
   "licenses": [
      {
          "type": "AFLv2.1",
